@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0xd1bAf5C017e8BaB2ADB7599c497EF19A4B2721e1",
+  "CONTRACT_ADDRESS": "0x6504427f3c64423a4179Ece1B2b9066651aCAE55",
+
+  "SCAN_LINK": "https://polygonscan.com",
+  "NETWORK": {
+    "NAME": "Mumbai testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Metamen Ren",
+  "SYMBOL": "MMR",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 69000000000000000,
+  "COST1": 99000000000000000,
+
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Metaverse",
+  "SHOW_BACKGROUND": true
+}

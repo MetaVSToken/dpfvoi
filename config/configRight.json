@@ -1,0 +1,22 @@
+{
+  "OWNER_ADDRESS": "0xd1bAf5C017e8BaB2ADB7599c497EF19A4B2721e1",
+  "CONTRACT_ADDRESS": "0x60a22eF8BD061c56646789B09C683ff4849cB631",
+
+  "SCAN_LINK": "https://polygonscan.com",
+  "NETWORK": {
+    "NAME": "Mumbai testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "MetamMen Neo",
+  "SYMBOL": "MMN",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 69000000000000000,
+  "COST1": 99000000000000000,
+
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Metaverse",
+  "SHOW_BACKGROUND": true
+}
